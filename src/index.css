@@ -1,0 +1,34 @@
+:root {
+background-color: #D5E1EF;
+}
+#Card{
+  background-color: #FFFFFF;
+  width: 320px;
+  height: 499px;
+  padding: 16px 16px;
+  align-content: center;
+  margin: auto;
+  border-radius: 1em;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+}
+#Card img{
+
+  border-radius: 1em;
+
+}
+
+
+#bold{
+  font-weight: bold;
+  font-family: outfit, sans-serif;
+  line-height: 120%;
+  font-size: 24px;
+  letter-spacing: 0px;
+}
+
+#basic{
+  font-family: outfit, sans-serif;
+  font-size: 15px;
+line-height: 140%;
+letter-spacing: 1.5px;
+}
